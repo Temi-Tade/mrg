@@ -21,7 +21,7 @@ mrg intro.txt body.txt conclusion.txt final_report.txt
 
 ## Installation
 You can install `mrg` via two options:
-### 1. Quick install
+### 1. Quick install (Linux, x86_64)
 Install pre-compiled binaries directly
 ```bash
 curl -L -o mrg https://github.com/Temi-Tade/mrg/releases/download/v1.0.0/mrg && chmod +x mrg && sudo mv mrg /usr/local/bin/
